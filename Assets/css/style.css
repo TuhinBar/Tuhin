@@ -195,9 +195,9 @@ img{
 }
 .home__img{
     position: absolute;
-    right: 1rem;
-    bottom: 55px;
-    width: 295px;
+    right: 8px;
+    bottom: 50px;
+    width: 270px;
 }
 /* ===Buttons=== */
 .button{
