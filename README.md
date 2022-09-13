@@ -13,8 +13,8 @@
 ![image](https://user-images.githubusercontent.com/85868593/189967382-265692ca-b203-4edb-a8aa-a286f7dfa45e.png)
 
 ## Requirements :
-- Bootstrap (Above 4.0)
-- CSS
-- HTML
-- Javascript
+- [Bootstrap (Above 4.0)](https://getbootstrap.com/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [HTML](https://html.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Scroll Reveal](https://scrollrevealjs.org/)
