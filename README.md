@@ -1,7 +1,7 @@
 # Tuhin
 
 ## Introducttion:
-- This is a static portfolio. This depicts someone proof of work and describes them via a webpage. Well, this portfolio have a lot of things to talk about. This iclueds bootstrap classes and css variables, scroll reveal js for scroll animation, most of all it is fully `Mobile Resposive`. It helps to showcase an individual by his personality, crerativity and works. 
+- This is a static portfolio. This depicts someone proof of work and describes them via a webpage. Well, this portfolio have a lot of things to talk about. This icludes bootstrap classes and css variables, scroll reveal js for scroll animation, most of all it is fully `Mobile Resposive`. It helps to showcase an individual by his personality, crerativity and works. 
 
 ## Previews :
 - Desktop View 
